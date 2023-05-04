@@ -1,2 +1,2 @@
-# prueba-henry
-es una prueba del modulo 2 de pre curso henry
+pool guevara
+proyecto prueba crear repositorio y clonarlo desde mi escritorio
